@@ -1550,6 +1550,12 @@
     <property name="Projection of Power" value="true" editable="true">
       <boolean/>
     </property>
+    <property name="Axis Projection of Power VCs" value="9" editable="true">
+      <number min="8" max="10"/>
+    </property>
+    <property name="Allies Projection of Power VCs" value="9" editable="true">
+      <number min="8" max="10"/>
+    </property>
     <property name="Honorable Surrender" value="false" editable="true">
       <boolean/>
     </property>
